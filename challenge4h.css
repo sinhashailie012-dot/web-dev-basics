@@ -9,12 +9,12 @@ a{
     color:white;
     cursor:pointer;
     border:none;
-    padding:7 16 7 16;
+    padding:7px 16px 7px 16px;
     cursor:pointer;
     transition: padding 0.8s;
   }
   .stretch:hover{
-    padding:14 32 14 32;
+    padding:14px 32px 14px 32px;
   }
   .shadow{
     background-color: green;
