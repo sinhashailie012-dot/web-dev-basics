@@ -1,0 +1,44 @@
+a{
+    margin:4px;
+    
+    font-size: 18px;
+
+  }
+  .stretch{
+    background-color:green ;
+    color:white;
+    cursor:pointer;
+    border:none;
+    padding:7 16 7 16;
+    cursor:pointer;
+    transition: padding 0.8s;
+  }
+  .stretch:hover{
+    padding:14 32 14 32;
+  }
+  .shadow{
+    background-color: green;
+    color:white;
+    cursor:pointer;
+    border:none;
+    padding:7 16 7 16;
+  }
+  .shadow:hover{
+    box-shadow:5px 5px 5px rgba(0,0,0,0.15);
+    margin-top:2px;
+    margin-left:2px;
+  }
+  .one{
+    background-color: green;
+    border:none;
+    color:white;
+    padding:4px 12px 4px 12px;
+    margin-left:10px;
+    margin-right:10px;
+
+  }
+  .one:hover{
+    padding:4px 22px 4px 22px;
+    margin-left:0px;
+    margin-right:0px;
+  } 
